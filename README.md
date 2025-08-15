@@ -1,16 +1,15 @@
 # 👋 Hey there, I’m Kunal Jhindal!  
 
-![Banner](A_digital_graphic_banner_showcases_Kunal_Jhindal,_.png)  
+ 
 
-🎓 **BTech in Artificial Intelligence & Machine Learning**  
-💻 Passionate about **Machine Learning, NLP, Python, SQL, and Data Visualization**  
+🎓 **Persuing BTech in Artificial Intelligence & Machine Learning**  
+💻 Passionate about **Machine Learning,Python, SQL, and Data Analysis,AI**  
 🚀 Building projects that turn ideas into reality  
 
 ---
 
 ## 🚀 About Me  
-- 📊 Currently working on **Machine Learning projects** (House Price Prediction, Student Management System)  
-- 🌱 Learning **NLP & Deep Learning** from scratch  
+- 📊 Currently working on **Machine Learning projects** (House Price Prediction, Student Management System)   
 - 🛠 Skilled in **Python, MySQL, C, Data Structures, Algorithms**  
 - 📚 Preparing for **DSA, OS, and SQL** competitive tests  
 - ⚡ Fun fact: I love turning boring datasets into cool insights!  
@@ -29,15 +28,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-5f9ea0?logo=seaborn&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?logo=scikit-learn&logoColor=white)  
-
----
-
-## 📌 Featured Projects  
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏡 [House Price Predictor](https://github.com/kjuhi-18/house-price-predictor) | Predicts house prices using regression models | Python, Pandas, Sklearn |
-| 🎓 [Student Management System](https://github.com/kjuhi-18/student-management-system) | Manage students with Python + MySQL + Streamlit | Python, MySQL |
-| 📊 [Data Visualization Dashboard](https://github.com/kjuhi-18/data-visualization-dashboard) | Interactive analytics dashboard | Python, Matplotlib, Seaborn |
 
 ---
 
