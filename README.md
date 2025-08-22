@@ -3,7 +3,7 @@
  
 
 🎓 **Persuing BTech in Artificial Intelligence & Machine Learning**  
-💻 Passionate about **Machine Learning,Python, SQL, and Data Analysis,AI**  
+💻 Passionate about **Machine Learning,Python, SQL, and Data Analysis,AI**   
 🚀 Building projects that turn ideas into reality  
 
 ---
