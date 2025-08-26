@@ -1,44 +1,48 @@
-<h1 align="center">👋 Hi, I'm Kunal Jhindal</h1>
-<h3 align="center">🚀 B.Tech AIML Student | Aspiring Data Scientist | Python & SQL Enthusiast</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Kunal Jhindal</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-## ​ About Me
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**  
-- 📊 Building a career in **Data Science & Analytics**  
-- 💻 Skilled in **Python, SQL, Data Analysis & Visualization**  
-- 🛠️ Working on end-to-end **Machine Learning** projects  
-- 📚 Exploring **NLP, Deep Learning, and Analytics**  
-- ⚡ Fun Fact: *Every dataset tells a story — let's discover it together!*
-
----
-
-## ​​ Tech Stack (Data Science & Development)
+## 🌟 Quote of the Day
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" /><br>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
 
 ---
 
-##  Certified Skills & Badges
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic)-2EC866?logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-2EC866?logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?logo=hackerrank&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-## ​ Featured Projects
-###  Pinned Repositories  
+## 📊 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kjuhi-18&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjuhi-18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,streamlit,github,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn" />
+</p>
+
+---
+
+## 📌 Featured Projects
+### 🔹 Pinned Repositories
 <p align="center">
   <a href="https://github.com/kjuhi-18/House-price-predictor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=House-price-predictor&theme=radical" />
@@ -61,64 +65,40 @@
   <a href="https://github.com/kjuhi-18/Mail-Automator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Mail-Automator&theme=radical" />
   </a>
+  <a href="https://github.com/kjuhi-18/Currency-Converter-C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Currency-Converter-C&theme=radical" />
+  </a>
 </p>
 
-###  Project Overview
+---
+
+### 🔹 Project Overview
 | 🚀 Project | 🔗 Link | 🛠️ Tech Stack |
 |------------|---------|----------------|
-| 🏠 **House Price Predictor** | [Repo](https://github.com/kjuhi-18/House-price-predictor) | Python, Pandas, Scikit-learn |
+| 🏠 **House Price Predictor** | [Repo](https://github.com/kjuhi-18/House-price-predictor) | Python, Machine Learning |
 | 🎓 **Student Management System** | [Repo](https://github.com/kjuhi-18/Student-Management-System) | Python, MySQL, Streamlit |
 | 🔐 **Password Generator** | [Repo](https://github.com/kjuhi-18/Password-Generator) | Python |
-| 💱 **Currency Converter** | [Repo](https://github.com/kjuhi-18/Currency-Convertor) | Python, Tkinter |
-| 📨 **Mail Automator** | [Repo](https://github.com/kjuhi-18/Mail-Automator) | Python, Automation |
+| 💱 **Currency Converter (Python GUI)** | [Repo](https://github.com/kjuhi-18/Currency-Convertor) | Python, Tkinter |
+| 💱 **Currency Converter (C)** | [Repo](https://github.com/kjuhi-18/Currency-Converter-C) | C Language |
+| 📨 **Mail Automator** | [Repo](https://github.com/kjuhi-18/Mail-Automator) | Python (smtplib), Automation |
 
 ---
 
-##  GitHub Stats & Contributions
+## 🎓 HackerRank Profile & Certifications
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalJhindal&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalJhindal&theme=radical&hide_border=false" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalJhindal&layout=compact&theme=radical&hide_border=false" height="180px"/>
-</p>
-
-##  Gamified Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalJhindal&theme=discord&row=1&column=7&margin-w=10&margin-h=10" />
-</p>
-
-##  Contribution Visuals
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalJhindal&theme=react-dark&hide_border=false&area=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/KunalJhindal/KunalJhindal/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-##  Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/kunal-jhindal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kunal@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/KunalJhindal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  </a>
   <a href="https://www.hackerrank.com/profile/kunal_jhindal_b1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-hackerrank.vercel.app/api?username=kunal_jhindal_b1&theme=dark" alt="HackerRank Badges" />
 </p>
 
 ---
 
-##  Quote of the Day
+## 📬 Connect With Me
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
+  <a href="https://github.com/kjuhi-18"><img src="https://img.shields.io/badge/GitHub-kjuhi18-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.hackerrank.com/profile/kunal_jhindal_b1"><img src="https://img.shields.io/badge/HackerRank-kunal__jhindal__b1-brightgreen?style=for-the-badge&logo=hackerrank"></a>
 </p>
