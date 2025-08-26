@@ -1,104 +1,54 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Kunal Jhindal</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Problem Solver | Tech Enthusiast</h3>
+
+# 👋 Hey there, I’m Kunal Jhindal!  
+
+ 
+
+🎓 **Persuing BTech in Artificial Intelligence & Machine Learning**  
+💻 Passionate about **Machine Learning,Python, SQL, and Data Analysis,AI**   
+🚀 Building projects that turn ideas into reality  
 
 ---
 
-## 🌟 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+## 🚀 About Me  
+- 📊 Currently working on **Machine Learning projects** (House Price Prediction, Student Management System)   
+- 🛠 Skilled in **Python, MySQL, C, Data Structures, Algorithms**  
+- 📚 Preparing for **DSA, OS, and SQL** competitive tests  
+- ⚡ Fun fact: I love turning boring datasets into cool insights!  
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+## 🛠 Tech Stack  
+
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-5f9ea0?logo=seaborn&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?logo=scikit-learn&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kjuhi-18&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjuhi-18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjuhi-18&theme=tokyonight)  
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,streamlit,github,vscode" /><br/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn" />
-</p>
+## 📈 Contribution Graph  
+![Kunal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kjuhi-18&theme=react-dark&hide_border=true)  
 
 ---
 
-## 📌 Featured Projects
-### 🔹 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/kjuhi-18/House-price-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=House-price-predictor&theme=radical" />
-  </a>
-  <a href="https://github.com/kjuhi-18/Student-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Student-Management-System&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kjuhi-18/Password-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Password-Generator&theme=radical" />
-  </a>
-  <a href="https://github.com/kjuhi-18/Currency-Convertor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Currency-Convertor&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kjuhi-18/Mail-Automator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Mail-Automator&theme=radical" />
-  </a>
-  <a href="https://github.com/kjuhi-18/Currency-Converter-C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjuhi-18&repo=Currency-Converter-C&theme=radical" />
-  </a>
-</p>
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Jhindal-blue?logo=linkedin)](https://linkedin.com/in/kunal-jhindal)  
+[![GitHub](https://img.shields.io/badge/GitHub-kjuhi--18-black?logo=github)](https://github.com/kjuhi-18)  
 
 ---
 
-### 🔹 Project Overview
-| 🚀 Project | 🔗 Link | 🛠️ Tech Stack |
-|------------|---------|----------------|
-| 🏠 **House Price Predictor** | [Repo](https://github.com/kjuhi-18/House-price-predictor) | Python, Machine Learning |
-| 🎓 **Student Management System** | [Repo](https://github.com/kjuhi-18/Student-Management-System) | Python, MySQL, Streamlit |
-| 🔐 **Password Generator** | [Repo](https://github.com/kjuhi-18/Password-Generator) | Python |
-| 💱 **Currency Converter (Python GUI)** | [Repo](https://github.com/kjuhi-18/Currency-Convertor) | Python, Tkinter |
-| 💱 **Currency Converter (C)** | [Repo](https://github.com/kjuhi-18/Currency-Converter-C) | C Language |
-| 📨 **Mail Automator** | [Repo](https://github.com/kjuhi-18/Mail-Automator) | Python (smtplib), Automation |
-
----
-
-## 🎓 HackerRank Profile & Certifications
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/kunal_jhindal_b1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-hackerrank.vercel.app/api?username=kunal_jhindal_b1&theme=dark" alt="HackerRank Badges" />
-</p>
-
----
-
-## 📬 Connect With Me
-<p align="center">
-  <a href="https://github.com/kjuhi-18"><img src="https://img.shields.io/badge/GitHub-kjuhi18-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.hackerrank.com/profile/kunal_jhindal_b1"><img src="https://img.shields.io/badge/HackerRank-kunal__jhindal__b1-brightgreen?style=for-the-badge&logo=hackerrank"></a>
-</p>
+⭐ **If you like my work, consider starring my repositories!**
