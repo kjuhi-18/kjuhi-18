@@ -55,8 +55,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=tokyonight&no-frame=true&row=1&column=6)  
+
 
 ---
 
