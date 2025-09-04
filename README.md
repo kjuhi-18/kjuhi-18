@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Kunal Jhindal!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=kjuhi-18&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=kjuhi-18&label=Profile%20Views%20Till%20Date&color=0e75b6&style=flat)
 
 
 🎓 **Pursuing BTech in Artificial Intelligence & Machine Learning**  
