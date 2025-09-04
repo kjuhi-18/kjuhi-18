@@ -1,5 +1,8 @@
 # 👋 Hey there, I’m Kunal Jhindal!  
 
+![Profile Views](https://komarev.com/ghpvc/?username=kjuhi-18&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 🎓 **Pursuing BTech in Artificial Intelligence & Machine Learning**  
 💻 Passionate about **Machine Learning, Python, SQL, and Data Analysis, AI**   
 🚀 Building projects that turn ideas into reality  
