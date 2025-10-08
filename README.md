@@ -49,6 +49,7 @@
 🔗 [**Password Generator**](https://github.com/kjuhi-18/Password-Generator) – Generates secure passwords  
 🔗 [**Student Management System**](https://github.com/kjuhi-18/Student-Management-System) – Python + MySQL based student records system  
 
+
 ---
 
 ## 📊 GitHub Stats & Activity  
