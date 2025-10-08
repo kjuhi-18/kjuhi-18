@@ -96,5 +96,5 @@
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**  
+⭐ **If you like my work, consider starring my repositories!**   
 [![](https://visitcount.itsvg.in/api?id=kjuhi-18&icon=0&color=13)](https://visitcount.itsvg.in)  
