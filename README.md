@@ -54,11 +54,15 @@
 
 ## 📊 GitHub Stats & Activity 
 
-![](https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=kjuhi-18&theme=tokyonight)  
-![](https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=neon&no-frame=false&no-bg=true&margin-w=4)  
-![](https://github-contributor-stats.vercel.app/api?username=kjuhi-18&limit=5&theme=neon&combine_all_yearly_contributions=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kjuhi-18&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+
+![Contrib Stats](https://github-contributor-stats.vercel.app/api?username=kjuhi-18&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 
 ---
 
