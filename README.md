@@ -52,17 +52,16 @@
 
 ---
 
-## 📊 GitHub Stats & Activity 
+## 📊 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kjuhi-18&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kjuhi-18&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=tokyonight&no-frame=true&margin-w=10)
 
-![Contrib Stats](https://github-contributor-stats.vercel.app/api?username=kjuhi-18&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kjuhi-18&theme=tokyo-night)
 
 ---
 
