@@ -57,11 +57,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kjuhi-18&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kjuhi-18&theme=tokyonight&no-frame=true&margin-w=10)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kjuhi-18&theme=tokyo-night)
 
 ---
 
