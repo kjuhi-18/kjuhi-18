@@ -53,9 +53,10 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight)
+
 
 
 
