@@ -57,7 +57,7 @@
     <img src=" https://streak-stats.demolab.com?user=kjuhi-18&theme=radical" height="165"/>
 
  
-  <img src="https://streak-stats.demolab.com?user=kjuhi-18&theme=react-dark" />
+  <img src="https://streak-stats.demolab.com?user=kjuhi-18&theme=radical" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
