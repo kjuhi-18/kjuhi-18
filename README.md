@@ -53,8 +53,9 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kjuhi-18&theme=tokyonight" /></p>
+
+![Streak](https://streak-stats.demolab.com?user=kjuhi-18&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kjuhi-18&theme=tokyonight&cache_seconds=1800)
 
 
