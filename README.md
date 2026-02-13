@@ -54,17 +54,10 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kjuhi-18&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjuhi-18&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjuhi-18&layout=compact&theme=tokyonight" />
-</p>
 
 
 
