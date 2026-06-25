@@ -43,12 +43,10 @@
 
 ## 📂 Featured Projects  
 
-🔗 [**House Price Predictor**](https://github.com/kjuhi-18/House-price-predictor) – ML model to predict house prices  
-🔗 [**Mail Automator**](https://github.com/kjuhi-18/Mail-Automator) – Automates sending personalized image attachments  
-🔗 [**Currency Converter (C)**](https://github.com/kjuhi-18/Currency-Convertor) – Currency conversion project in **C language**  
-🔗 [**Password Generator**](https://github.com/kjuhi-18/Password-Generator) – Generates secure passwords  
-🔗 [**Student Management System**](https://github.com/kjuhi-18/Student-Management-System) – Python + MySQL based student records system  
-
+🔗 [**FlightWise-AI**](https://github.com/kjuhi-18/FlightWise-AI) – FlightWise AI – An end-to-end machine learning platform that predicts flight delays and provides operational recovery insights using aviation analytics and XGBoost.
+🔗 [**SmartProcure**](https://github.com/kjuhi-18/SmartProcure) – SmartProcure AI predicts delivery delays and optimizes dispatch using ML-powered logistics intelligence  
+🔗 [**UIDAI Aadhaar Decision Intelligence System)**](https://github.com/kjuhi-18/SmartProcure) – Hackathon project that transforms UIDAI Aadhaar enrolment and update data into actionable insights using EDA anomaly detection and machine learning forecasting 
+🔗 [**Mutual Fund Analytics & Risk Analysis System(BlueStock Capstone)**](https://github.com/kjuhi-18/bluestock_mf_capstone) – Comprehensive mutual fund analytics capstone covering ETL, performance analysis, risk modeling, dashboards, and automation.
 
 ---
 
