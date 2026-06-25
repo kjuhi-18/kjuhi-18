@@ -44,8 +44,11 @@
 ## 📂 Featured Projects  
 
 🔗 [**FlightWise-AI**](https://github.com/kjuhi-18/FlightWise-AI) – FlightWise AI – An end-to-end machine learning platform that predicts flight delays and provides operational recovery insights using aviation analytics and XGBoost.
-🔗 [**SmartProcure**](https://github.com/kjuhi-18/SmartProcure) – SmartProcure AI predicts delivery delays and optimizes dispatch using ML-powered logistics intelligence  
+
+🔗 [**SmartProcure**](https://github.com/kjuhi-18/SmartProcure) – SmartProcure AI predicts delivery delays and optimizes dispatch using ML-powered logistics intelligence 
+
 🔗 [**UIDAI Aadhaar Decision Intelligence System)**](https://github.com/kjuhi-18/SmartProcure) – Hackathon project that transforms UIDAI Aadhaar enrolment and update data into actionable insights using EDA anomaly detection and machine learning forecasting 
+
 🔗 [**Mutual Fund Analytics & Risk Analysis System(BlueStock Capstone)**](https://github.com/kjuhi-18/bluestock_mf_capstone) – Comprehensive mutual fund analytics capstone covering ETL, performance analysis, risk modeling, dashboards, and automation.
 
 ---
